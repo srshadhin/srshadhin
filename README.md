@@ -65,10 +65,11 @@ class AboutMe:
 
 [//]: # (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srshadhin&show_icons=true&locale=en&layout=compact" alt="srshadhin" /></p>)
 ## 📊 GitHub Stats
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srshadhin&show_icons=true&locale=en" alt="srshadhin" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srshadhin&" alt="srshadhin" />
-</div>
+</p>
+
 <hr>
 <p align="center">
   💡 <em>"It can be done"</em>
