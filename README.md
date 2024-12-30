@@ -65,9 +65,9 @@ class AboutMe:
 
 [//]: # (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srshadhin&show_icons=true&locale=en&layout=compact" alt="srshadhin" /></p>)
 ## 📊 GitHub Stats
-<div style="display: flex; justify-content: center; align-items: center; gap: 2%;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 3%;">
   <img src="https://github-readme-stats.vercel.app/api?username=srshadhin&show_icons=true&locale=en" alt="srshadhin" style="width: 47% !important;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srshadhin&" alt="srshadhin" style="width: 51% !important;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srshadhin&" alt="srshadhin" style="width: 50% !important;" />
 </div>
 
 <hr>
